@@ -1,21 +1,14 @@
 <script>
 export default {
-    data() {
-        return {
-
-        };
-    },
-    methods: {
-
-    }
-}
+  data() {
+    return {};
+  },
+  methods: {},
+};
 </script>
 
 <template>
-    <main>
-        MAIN
-    </main>
+  <main>MAIN</main>
 </template>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
